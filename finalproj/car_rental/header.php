@@ -8,7 +8,7 @@
 			<meta name="viewport" content="width=device-width, initial-scale=1">
 
 			<div class="wrapper">
-				<h1 class="logo">Job Brioso Car Company</h1>
+				<h1 class="logo">JGB Car Rental</h1>
 				<a href="#" class="hamburger"></a>
 				<nav>
 					<?php
