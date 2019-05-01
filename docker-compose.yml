@@ -2,10 +2,10 @@ version: '3'
 
 services:
   web:
-    image: cars_php
+    image: jgbrioso/cars_php
     container_name: cars_php
     links:
-      - "db:finalproj_default"
+      - "db:finals_default"
     depends_on:
       - db
     volumes:
@@ -16,7 +16,7 @@ services:
     tty: true
 
   db:
-    image: cars_db
+    image: jgbrioso/cars_db
     container_name: cars_db
     ports:
       - "3306:3306"
