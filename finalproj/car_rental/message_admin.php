@@ -27,9 +27,6 @@
 <body>
 
 	<section class="">
-		<?php
-			include 'header.php';
-		?>
 
 			<section class="caption">
 				<h2 class="caption" style="text-align: center">Find You Dream Cars For Hire</h2>
