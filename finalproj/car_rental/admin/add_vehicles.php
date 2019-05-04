@@ -155,9 +155,9 @@
 <!-- Footer -->
 <div id="footer">
 	<div class="shell">
-		<span class="left">&copy; <?php echo date("Y");?> - Sonko Rescue Team</span>
+		<span class="left">&copy; <?php echo date("Y");?> --</span>
 		<span class="right">
-			Design by Consi</a>
+			JGB</a>
 		</span>
 	</div>
 </div>
